@@ -10,9 +10,9 @@ Eu sou o Melquizedeque Marcos :sunglasses:, sou um Programador Front End, Atualm
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js-logo"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melkhp&show_icons=true&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melkmarcos&show_icons=true&theme=blue-green)
 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melkhp&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melkmarcos&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
